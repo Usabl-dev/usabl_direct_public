@@ -44,7 +44,7 @@ function _0x1ef7() {
     "float:right;bottom:2%;right:1%;position:fixed;z-index:2147483647",
     "open",
     "link",
-    "https://cdn.jsdelivr.net/gh/Usabl-dev/usabl_direct_public/usabl_video.png",
+    "https://cdn.jsdelivr.net/gh/Usabl-dev/usabl_direct_public@452b1d9/usabl_video.png",
     "mouseleave",
     "style",
     "https://usabl.dev/?utm_campaign=viral&utm_source=embed_link",
